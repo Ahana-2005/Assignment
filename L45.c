@@ -1,3 +1,4 @@
+//Write a program in c to print palindrome pyramid.
 #include <stdio.h>
 int main()
 {
