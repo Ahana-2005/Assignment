@@ -1,10 +1,10 @@
 //Write a program in c to count the number of digits in a number.
 #include <stdio.h>
 int main() {
-long long n;
+int n;
 int count = 0;
 printf("Enter an integer: ");
-scanf("%lld", &n);
+scanf("%d", &n);
 do 
 {
 n /= 10;
