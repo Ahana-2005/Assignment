@@ -1,4 +1,4 @@
-//Write a c program to find the total distance covered by Abhishek if he takes 10 minutesto cover 10 ft and 6 ins and then he covers 20 ft and 8 ins in 12 minutes.
+//Write a c program to find the total distance covered if a person takes 10 minutes to cover 10 ft and 6 ins and then he covers 20 ft and 8 ins in 12 minutes.
 #include<stdio.h>
 int main()
 {
