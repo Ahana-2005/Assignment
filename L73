@@ -1,4 +1,4 @@
-//Write a c program to add 2 complex numbers.
+//Write a c program to add 2 complex numbers using structures.
 #include<stdio.h>
 int main()
 {
