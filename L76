@@ -1,20 +1,25 @@
-//Write a c program to find the total distance covered if a person takes 10 minutes to cover 10 ft and 6 ins and then he covers 20 ft and 8 ins in 12 minutes.
-#include<stdio.h>
-int main()
+//Write a c program to demonstrate array of structures
+#include <stdio.h>
+ int main()
 {
-struct distance
+struct employee 
 {
-int time,feet,inches;
-}c1,c2,c3;
-c1.feet=10,c1.inches=6,c1.time=10;
-c2.feet=20,c2.inches=8,c2.time=12;
-c3.feet=c1.feet+c2.feet;
-c3.inches=c1.inches+c2.inches;
-c3.time=c1.time+c2.time;
-if(c3.inches>12)
-{
-c3.feet++;
-c3.inches-=12;
+char name[100];
+int age;
+float salary;
+};
+struct employee em[10];
+int counter, index, count, totalSalary;
+printf("Enter Number of Employees\n");
+scanf("%d", &count);
+for(counter=0; counter<count; counter++)
+{ 
+printf("Enter Name of Employee\n");
+getchar();
+gets(em[counter].name);
+printf("Enter the Age and Salary of Employee\n");
+scanf("%d %f", &em[counter].age, &em[counter].salary);
 }
-printf("The Distance is: %d ft %d ins covered in %d minutes",c3.feet,c3.inches,c3.time);
+printf("Average Salary of an Employee is %f\n", 
+(float)totalSalary/count);
 }
