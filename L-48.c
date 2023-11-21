@@ -1,9 +1,9 @@
 //Write a program in c to print the pattern
-A
+*/A
 B B
 C C C
 D D D D
-E E E E E
+E E E E E/*
 #include<stdio.h>
 int main()
 {
