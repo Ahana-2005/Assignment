@@ -1,10 +1,10 @@
 //Write a program in c to calculate the grade of the student according to specific marks:
-95 to 100:AA
+*/95 to 100:AA
 85 to 95:A+
 70 to 85:A
 60 to 70:B
 45 to 60:C
-<45:D           
+<45:D/*
 #include<stdio.h>
 int main()
 {
