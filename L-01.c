@@ -1,4 +1,4 @@
-//Write a program in c to print the memory addresses of 5 variables. test
+//Write a program in c to print the memory addresses of 5 variables.
 #include<stdio.h>
 int main()
 {
