@@ -1,6 +1,4 @@
-//
-// Created by AHANA on 22-11-2023.
-//
+//Write a c program to implement all string functions.
 #include <stdio.h>
 #include <string.h>
 int main()
