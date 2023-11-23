@@ -74,4 +74,5 @@ add_executable(Assignment
         L-82.c
         L-89.c
         L-83.c
-        L-94.c")
+        L-94.c
+        L-92.c")
