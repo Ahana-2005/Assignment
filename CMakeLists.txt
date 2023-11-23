@@ -66,4 +66,7 @@ add_executable(Assignment
         T.1.cpp
         "L-78.c"
         "L-90.c"
-        "L-91.c")
+        "L-91.c"
+        "L-92.c"
+        L-81.c
+        L-84.c)
