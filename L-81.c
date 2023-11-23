@@ -1,4 +1,4 @@
-//Write a program in c to create a file.
+//Write a program in c to check if a file exists or not.
 #include <stdio.h>
 int main()
 {
