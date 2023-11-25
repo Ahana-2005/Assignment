@@ -1,9 +1,8 @@
 //Write a c program to check whether a number is happy number or not.
 #include<stdio.h>
-#include<math.h>
-main()
+int main()
 {
-int i,j,num,temp,sum=0;
+int j,num,sum=0;
 printf("Enter number\n");
 scanf("%d",&num);
 while(sum!=1 && sum!=4)

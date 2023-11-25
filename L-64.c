@@ -1,13 +1,13 @@
-//Write a c program to find the sum of n numbers using recurssion.
+//Write a c program to find the sum of n numbers using recursion.
 #include <stdio.h>
 int sum(int a)
 {
-int x;
 if(a==1)
 {
 return 1;
 }
-return x=a+sum(a-1);
+ int x=a+sum(a-1);
+    return x;
 }
 int main() 
 {

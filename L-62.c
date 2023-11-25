@@ -1,4 +1,4 @@
-//Write a c program by using the numerical-1,9,9 and 6 exactly in the order to make the following numericals:- 28,32,35,38,72,73,76,77,100,1000.
+//Write a c program by using the numerical-1,9,9 and 6 exactly in the order to make the following numerical:- 28,32,35,38,72,73,76,77,100,1000.
 #include <stdio.h>
 #include <math.h>
 int main()
