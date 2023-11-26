@@ -2,11 +2,8 @@
 #include <stdio.h>
 int main()
 {
-int r,c;
-int a[100][100];
-int b[100][100];
-int pro[100][100];
-int i, j, k;
+int r,c,i, j, k;
+int a[100][100],b[100][100],pro[100][100];
 printf("Enter the number of rows: ");
 scanf("%d", &r);
 printf("Enter the number of columns: ");
