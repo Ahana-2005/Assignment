@@ -17,7 +17,7 @@ printf("Enter the element in row-%d and column-%d :",i,j);
 scanf("%d", &a[i][j]);
 }
 }
-printf("Enter elements of the second 2x2 matrix:\n");
+printf("Enter elements of the second matrix:\n");
 for (i = 0; i < r; i++) 
 {
 for (j = 0; j < c; j++) 
