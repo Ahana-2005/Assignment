@@ -1,4 +1,4 @@
-//Write a program in c to concantinate four stings together using string function.
+//Write a program in c to concatenate four stings together using string function.
 #include <stdio.h>
 #include <string.h>
 int main()

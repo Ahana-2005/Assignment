@@ -1,4 +1,4 @@
-//Write a program in c to check whether a triangle is right angled triangle or not.
+//Write a program in c to check whether a triangle is right-angled triangle or not.
 #include<stdio.h>
 #include<math.h>
 int main()

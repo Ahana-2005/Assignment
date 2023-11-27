@@ -1,5 +1,6 @@
-//Smart bazaar, a subsidary of reliance, wants to store the following: product name, id and price. write a program in c to help reliance in storing the following details such that if they want to search a product via name or id, they should be able to get the details.
+//Smart bazaar, a subsidiary of reliance, wants to store the following: product name, id and price. write a program in c to help reliance in storing the following details such that if they want to search a product via name or id, they should be able to get the details.
 #include <stdio.h>
+#include <string.h>
 int main()
 {
 int ch,count=0;

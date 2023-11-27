@@ -1,4 +1,4 @@
-//Write a program in c to calculate the area of triangle using Haron's formula.
+//Write a program in c to calculate the area of triangle using Heron's formula.
 #include<stdio.h>
 #include<math.h>
 int main()

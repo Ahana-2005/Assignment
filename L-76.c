@@ -9,7 +9,7 @@ int age;
 float salary;
 };
 struct employee em[10];
-int counter, index, count, totalSalary;
+int counter, count, totalsalary;
 printf("Enter Number of Employees\n");
 scanf("%d", &count);
 for(counter=0; counter<count; counter++)
@@ -20,6 +20,5 @@ gets(em[counter].name);
 printf("Enter the Age and Salary of Employee\n");
 scanf("%d %f", &em[counter].age, &em[counter].salary);
 }
-printf("Average Salary of an Employee is %f\n", 
-(float)totalSalary/count);
+printf("Average Salary of an Employee is %f\n", (float) totalsalary / count);
 }

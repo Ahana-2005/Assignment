@@ -14,7 +14,7 @@ void push(int value)
 void pop()
 {
     if(top == -1)
-        printf("\nStack Underflows deletion is not possible.");
+        printf("\nStack Underflow deletion is not possible.");
     else{
         printf("\nDeleted : %d", data[top]);
         top--;

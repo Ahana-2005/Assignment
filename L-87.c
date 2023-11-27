@@ -1,5 +1,4 @@
 //Write a program in c to implement queue data structure using array.
-#include<stdlib.h>
 #include<stdio.h>
 int queue[5];
 int front=-1;
@@ -16,7 +15,7 @@ void dequeue()
 {
     if (front == rear)
     {
-        printf("Queue Underflows \n");
+        printf("Queue Underflow \n");
     }
     else
     {

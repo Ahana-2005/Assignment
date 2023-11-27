@@ -3,7 +3,6 @@
 int main()
 {
     int arr[]={20,2,30,50,40,60,80,80,9};
-    int start=0;
     int stop=9;
     for(int i=0;i<stop;i++)
     {

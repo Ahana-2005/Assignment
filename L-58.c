@@ -2,7 +2,7 @@
 #include <stdio.h>
 void armstrong(int n)
 {
-int originalNum=n,remainder,result=0;;
+int originalNum=n,remainder,result=0;
 while (originalNum != 0) 
 {
 remainder = originalNum % 10;

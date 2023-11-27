@@ -1,5 +1,6 @@
 //Write a program in c to find out the Simple and Compound Interest.
 #include<stdio.h>
+#include <math.h>
 int main()
 {
 float p,r,t,SI,CI,w,A,f,d,v;

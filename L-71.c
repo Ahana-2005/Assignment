@@ -31,13 +31,13 @@ for (i = 0; i < r; i++)
 for (j = 0; j < c; j++) 
 {
 pro[i][j] = 0;
-for (k = 0; k < 2; k++) 
+for (k = 0; k < c; k++)
 {
 pro[i][j] += a[i][k] * b[k][j];
 }
 }
 }
-printf("Result of matrix multiplication:\n");
+printf("Result of array multiplication:\n");
 for (i = 0; i < r; i++) 
 {
 for (j = 0; j < c; j++) 

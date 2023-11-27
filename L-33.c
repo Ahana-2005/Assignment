@@ -3,7 +3,6 @@
 int main()
 {
 char ch;
-int lc,uc;
 printf("Enter a Character:\n");
 scanf("%c",&ch);
 if(ch>='A'&&ch<='Z')

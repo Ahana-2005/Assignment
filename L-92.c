@@ -1,5 +1,4 @@
 //Write a c program to check the repetition of a number in an array.
-//Program in C to check the repitition of a number in an array
 #include<stdio.h>
 int main() {
     int i, n,s,count=0;

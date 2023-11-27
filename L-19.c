@@ -12,7 +12,7 @@ printf("Enter Program:\n");
 scanf("%s",&prog);
 printf("Enter E-Mail:\n");
 scanf("%s",&email);
-printf("Enter Bith Year:\n");
+printf("Enter Birth Year:\n");
 scanf("%d",&year);
 printf("------------------------\n");
 printf("Your name:%s\n",name);

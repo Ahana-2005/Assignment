@@ -6,7 +6,7 @@ int main()
     char file_name[100],data[100];
     printf("Enter the file name:");
     gets(file_name);
-    fp= fopen(&file_name,"r");
+    fp= fopen(file_name,"r");
     if(fp!=NULL)
     {
         printf("FILE OPENED!\n");

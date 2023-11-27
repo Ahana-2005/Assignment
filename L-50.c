@@ -1,9 +1,9 @@
 //Write a program in c to print the following
-* * * * * 
-*       *
-*       *
-*       *
-* * * * *
+/* * * * * *
+   *       *
+   *       *
+   *       *
+   * * * * * */
 #include<stdio.h>
 int main()
 {

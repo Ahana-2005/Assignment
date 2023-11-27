@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-int row,temp1=1,temp2=1,backup=0;
+int row,temp1=1,temp2=1,backup;
 printf("Limit:\n");
 scanf("%d",&row);
 for(int i=0;i<=row;i++)

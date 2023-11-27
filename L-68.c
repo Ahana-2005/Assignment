@@ -1,4 +1,4 @@
-//Write a c program to create a 2 diamensional array by taking the no. of rows,columns and the elements from the user and display them.
+//Write a c program to create a 2-D array by taking the no. of rows,columns and the elements from the user and display them.
 #include <stdio.h>
 int main()
 {
